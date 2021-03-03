@@ -1,0 +1,16 @@
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.exe
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.deps.json
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.runtimeconfig.json
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.runtimeconfig.dev.json
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.dll
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.pdb
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csprojAssemblyReference.cache
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.IMC.resources
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.Properties.Resources.resources
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csproj.GenerateResource.cache
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.AssemblyInfo.cs
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.dll
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.pdb
+C:\Users\flavia.martins\source\repos\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.genruntimeconfig.cache
